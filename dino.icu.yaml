@@ -656,6 +656,11 @@ rr: # Rickroll with a single line of bash
   type: CNAME
   value: cname.vercel-dns.com.
 
+rsvp: # https://github.com/17sdheeraj/yswsrsvp
+  ttl: 600
+  type: CNAME
+  value: 17sdheeraj.github.io.
+
 run:
   ttl: 600
   type: CNAME
