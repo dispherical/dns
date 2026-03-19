@@ -795,6 +795,10 @@ social:
   ttl: 600
   type: CNAME
   value: mastodon.hackclub.app.
+solvable: # GitHub: Randomcoder323, codingme313@gmail.com
+  ttl: 600
+  type: CNAME
+  value: cname.vercel-dns.com.
 
 smtp: # hackclub free smtp service
   - ttl: 600
