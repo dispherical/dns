@@ -869,6 +869,11 @@ toonnongaeoy:
    type: CNAME
    value: storyhouseproduction.duckdns.org.
 
+typeline: # mihranrazaa@gmail.com
+  - ttl: 600
+    type: CNAME
+    value: cname.vercel-dns.com.
+
 uplink: # benvaccaro@Proton.me
   - ttl: 600
     type: A
