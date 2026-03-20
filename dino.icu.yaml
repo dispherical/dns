@@ -168,6 +168,11 @@ cad: # by https://github.com/leecheeyong/community-widgets
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+
+canvas: # maya.l.hazarika@gmail.com U08SWBK3G64
+  ttl: 600
+  type: CNAME
+  value: canvas-m.vercel.app.
   
 carto: # cyrils.li@icloud.com U07FXPUDYDC
   ttl: 600
