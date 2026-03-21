@@ -670,6 +670,11 @@ periodic:
    ttl: 600
    type: CNAME
    value: leecheeyong.github.io.
+
+premier: # rushil@hackclub.com U020X4GCWSF
+  ttl: 600
+  type: CNAME
+  value: mntrushmore.github.io.
    
 piyush:
    ttl: 600
