@@ -590,6 +590,11 @@ la: # Laker Turner's links page - @lxjv or @la / @laker in the slack
   type: CNAME 
   value: laker.omg.lol.
 
+lookout-stage: # anson@hackclub.com
+  ttl: 600
+  type: A
+  value: 96.9.228.153
+
 levelzero: # @arjav0703 (gh) - ysws website
   ttl: 600
   type: A
