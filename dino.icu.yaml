@@ -238,6 +238,11 @@ chess: # by https://github.com/leecheeyong/chinese-chess
   type: CNAME
   value: cname.vercel-dns.com.
 
+corechat: # aradforsure@gmaul.com U0AJN9LJDGS
+  ttl: 600
+  type: CNAME
+  value: aradjpy.github.io.
+
 cipher: # rupnil.mondal2+hackclub@gmail.com; Rupnil Codes, slack: U0A4UTULSLE
   - ttl: 600
     type: A
