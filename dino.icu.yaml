@@ -651,6 +651,11 @@ mutate: # Pookstir U095D212WC8
     type: CNAME
     value: cattacocattaco.github.io.
 
+mysphere: # U081RF7D23D
+  ttl: 600
+  type: CNAME
+  value: mh-wah.github.io.
+  
 niilas: # Niilas - repo: https://github.com/niilasoika/niilas.dino.icu
   ttl: 600
   type: CNAME
