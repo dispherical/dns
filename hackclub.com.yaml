@@ -825,9 +825,12 @@ authly:
   type: CNAME
   value: dandililacs.github.io.
 forge:
-- ttl: 300
+- octodns:
+    cloudflare:
+      proxied: true
+  ttl: 300
   type: CNAME
-  value: cname.vercel-dns.com.
+  value: b.selfhosted.hackclub.com.
 firehose:
 - ttl: 300
   type: CNAME
