@@ -173,6 +173,11 @@ boxed: # U08PUHSMW4V
   type: CNAME
   value: w2.halceon.dev.
 
+breakout: #by U0823J6HMTP https://github.com/CsibiCsabi
+    ttl: 600
+    type: CNAME
+    value: break-out-nine.vercel.app.
+
 bs: # by https://github.com/leecheeyong/BrawlBio
   ttl: 600
   type: CNAME
