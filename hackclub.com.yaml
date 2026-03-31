@@ -5701,6 +5701,10 @@ timeless:
   ttl: 300
   type: CNAME
   value: hackclub.github.io.
+tinker: # clay@hackclub.com U05JNJZJ0BS
+  ttl: 300
+  type: CNAME
+  value: a.selfhosted.hackclub.com.
 tist:
 - ttl: 300
   type: A
