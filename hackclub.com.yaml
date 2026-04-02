@@ -990,6 +990,9 @@ berman:
   type: CNAME
   value: bermanclub.pages.dev.
 better-airtable-mcp: # zach@hackclub.com
+- octodns:
+    cloudflare:
+      proxied: true
   ttl: 300
   type: CNAME
   value: a.limited.selfhosted.hackclub.com.
