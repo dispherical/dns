@@ -5,3 +5,4 @@
 the: # zach@hackclub.com U0266FRGP
   type: CNAME
   value: b87a9ce0fca6c4b7.vercel-dns-016.com.
+  ttl: 60
