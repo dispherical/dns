@@ -305,7 +305,6 @@ _vercel:
   - vc-domain-verify=evergreen.hackclub.com,4464d82393ad62c6bc0b
   - vc-domain-verify=fhs.hackclub.com,46936764d6774efee2b5
   - vc-domain-verify=foodie.hackclub.com,0215d38601a347a45686
-  - vc-domain-verify=forge.hackclub.com,9dbbce561a571cab8a3b
   - vc-domain-verify=forms.phs.hackclub.com,25e08effb0de721c762e
   - vc-domain-verify=fraud.hackclub.com,e3e5b184c19552f5c475
   - vc-domain-verify=fudge.hackclub.com,6141b368441cbcf96cb4
@@ -2380,7 +2379,7 @@ forge:
       proxied: true
   ttl: 300
   type: CNAME
-  value: b.selfhosted.hackclub.com.
+  value: a.selfhosted.hackclub.com.
 format:
   ttl: 300
   type: CNAME
