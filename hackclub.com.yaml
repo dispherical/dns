@@ -4578,7 +4578,7 @@ resolution: #dhamari@hackclub.com // jenin@hackclub.com
       proxied: true
   ttl: 300
   type: A
-  value: 5.161.100.52 #coolify
+  value: 216.150.1.1 # Vercel
 - ttl: 3600
   type: TXT
   values:
