@@ -4518,6 +4518,9 @@ reactive:
 - ttl: 300
   type: CNAME
   value: c5165cd264885445.vercel-dns-017.com.
+readme: # eps@hackclub.com
+  type: CNAME
+  value: cname.vercel-dns.com.
 reality:
 - ttl: 300
   type: CNAME
