@@ -21,6 +21,18 @@
   #     - algorithm: 4
   #       fingerprint_type: 2
   #       fingerprint: "1cca6a8a1967644ac3bb9c21b1ff0f6e160f4a35067fe28afbece19927c3003a"
+- type: CAA
+  value: 0 issue "zerossl.com"
+- type: CAA
+  value: 0 issue "sectigo.com"
+- type: CAA
+  value: 0 issue "letsencrypt.org"
+- type: CAA
+  value: 0 issuewild "zerossl.com"
+- type: CAA
+  value: 0 issuewild "sectigo.com"
+- type: CAA
+  value: 0 issuewild "letsencrypt.org"
 "*":
 - type: CNAME
   value: hackclub.app.
