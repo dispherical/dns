@@ -1241,6 +1241,15 @@ caffeinecrash:
   ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
+cal: # leo@hackclub.com U07BLJ1MBEE
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
+api.cal: # leo@hackclub.com U07BLJ1MBEE
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
+hq.cal: # leo@hackclub.com U07BLJ1MBEE
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
 calendar:
   ttl: 300
   type: CNAME
