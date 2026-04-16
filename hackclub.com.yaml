@@ -376,7 +376,6 @@ _vercel:
   - vc-domain-verify=smelt.hackclub.com,e984b2fd8b23c434da2f
   - vc-domain-verify=security.hackclub.com,b005370fba78b1b3b932
   - vc-domain-verify=share.hackclub.com,8d59dacc58f46585b195
-  - vc-domain-verify=shipyard.hackclub.com,79b8509dc6a49d65b29f
   - vc-domain-verify=simmer.hackclub.com,19a5cdf65fc7aedb7ccb
   - vc-domain-verify=southhighhack.hackclub.com,8cf484f7551780f58ae9
   - vc-domain-verify=spatula.hackclub.com,91026edc4d735b166c59
@@ -1242,6 +1241,15 @@ caffeinecrash:
   ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
+cal: # leo@hackclub.com U07BLJ1MBEE
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
+api.cal: # leo@hackclub.com U07BLJ1MBEE
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
+hq.cal: # leo@hackclub.com U07BLJ1MBEE
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
 calendar:
   ttl: 300
   type: CNAME
@@ -3386,6 +3394,10 @@ v2.jumpstart: #estella@hackclub.com
 - ttl: 300
   type: CNAME
   value: themagicfrog.github.io.
+jus-study: #adlerauge818+hackclub@gmail.com under euan@hackclub.com
+- ttl: 300
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
 jv:
 - ttl: 300
   type: CNAME
@@ -5020,7 +5032,7 @@ count.shipwrecked:
   value: a.selfhosted.hackclub.com.
 shipyard: # bisherk.almasri@gmail.com U097SRZ6DU7
   type: CNAME
-  value: 0053c02d8c565067.vercel-dns-017.com.
+  value: b.selfhosted.hackclub.com.
 shop:
 - ttl: 300
   type: TXT
